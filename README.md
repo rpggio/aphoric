@@ -1,6 +1,6 @@
 # Aphorism
 
-A writing form for clear thinking - dense, modular, honest  
+A simplified writing form for AI and humans  
 Brain tired from reading a wall of AI text?  
 Constrain the language  
 
