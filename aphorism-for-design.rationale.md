@@ -64,17 +64,3 @@ Form does not merely display thought
 Form generates factoring
 Stanzas reveal structure by the act of writing them
 Discipline of the form is the method, not the skin
-
-## Unknown: Scale limits
-
-Does the form hold at document scale
-At system scale
-At portfolio scale
-Untested
-
-## Unknown: Minimum label set
-
-Maybe five or six primitives
-Problem, mechanism, constraint, unknown, tradeoff
-Domain adds specializations
-Canonical set may not exist
