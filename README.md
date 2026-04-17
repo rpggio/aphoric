@@ -1,21 +1,23 @@
-# Aphorism
+# Aphoric
 
 A simplified writing form for AI and humans  
+Name derives from 'aphorism', meaning a quip, a short statement  
 Brain tired from reading a wall of AI text?  
 Constrain the language  
 
-Written as pattern definitions, not as skill files  
-TXT format, so Markdown renderers don't collapse lines  
+Written as pattern definitions, not as imperative skills  
 
 I recommend embedding core pattern in AI system instructions  
 Your eyeballs will thank you  
 
-Did you find the above easy to read?  
+Do you find this easy to read?  
 You should try the pattern  
 
-- [aphorism.txt](aphorism.txt) — The core form. Rules for writing in aphorism style.
-- [aphorism-for-design.txt](aphorism-for-design.txt) — Extension of the form applied to design documents. Introduces labeled stanzas for design factors.
-- [aphorism-for-design.rationale.txt](aphorism-for-design.rationale.txt) — The rationale behind aphorism-for-design. For use when revising the pattern with AI.
+Works well with Claude Opus
+Codex models untested
+
+- [aphoric.md](aphoric.md) — The core form. Rules for writing in aphorism style.
+- [aphoric.rationale.md](aphoric.rationale.md) — The rationale. For use when revising the pattern with AI.
 
 ## Related
 
