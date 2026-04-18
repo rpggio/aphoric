@@ -13,7 +13,7 @@ Your eyeballs will thank you
 Do you find this easy to read?  
 You should try the pattern  
 
-Works well with Claude Opus
+Works well with Claude Opus  
 Codex models untested
 
 - [aphoric.md](aphoric.md) — The core form. Rules for writing in aphorism style.
